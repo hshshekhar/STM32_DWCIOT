@@ -1,0 +1,15 @@
+../Drivers/CMSIS/Include/core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/main.c:102:5:main	24	static
+../Core/Src/main.c:174:6:SystemClock_Config	88	static
+../Core/Src/main.c:220:6:User_TIMPeriodElapsedCallback	16	static
+../Core/Src/main.c:227:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:236:6:Register_Motor_oprtn_cllbk	16	static
+../Core/Src/main.c:242:6:trigger_motor_oprations	16	static
+../Core/Src/main.c:258:6:Tank_full_cllbk	8	static
+../Core/Src/main.c:263:6:Tank_Half_cllbk	4	static
+../Core/Src/main.c:267:6:Tank_Low_cllbk	4	static
+../Core/Src/main.c:270:6:Tank_Empty_cllbk	8	static
+../Core/Src/main.c:276:6:set_time	8	static
+../Core/Src/main.c:301:6:intToStringWithAlignment	24	static
+../Core/Src/main.c:310:9:binaryToBCD	16	static
+../Core/Src/main.c:363:6:Error_Handler	4	static,ignoring_inline_asm
